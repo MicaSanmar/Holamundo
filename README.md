@@ -1,2 +1,5 @@
 # Holamundo
+
 Mi primer repositorio
+
+🐱, 🍕, ⭐, 🇦🇷
